@@ -44,6 +44,14 @@ background-position: left ;
 .fa-5x {
   font-size: 3em;
 } 
+
+.infos {
+  color: white;
+  text-align: center;
+  margin-bottom: 10px;
+}
+
+
 /* HTML5 Audio Player with Playlist, source: https://codepen.io/sekedus/pen/ExxjZEz */
 
 #simp button,#simp input,#simp img{border:0;}
