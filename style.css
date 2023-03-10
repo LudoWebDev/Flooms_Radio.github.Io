@@ -88,6 +88,7 @@ background-position: left ;
 #simp .simp-footer{padding:10px 10px 10px;font-size:90%;text-align:center;opacity:.7;}
 #simp .simp-display{overflow:hidden;max-height:650px;transition:max-height .5s ease-in-out;}
 #simp .simp-hide{max-height:0;}
+#simp .simp-controls .simp-others .simp-active {background: #4082bc;}
 /* playlist */
 #simp ul{margin:5px 0 0;padding:0;list-style:none;max-height:600px;}
 #simp ul li{white-space:nowrap;overflow:hidden;text-overflow:ellipsis;display:block;margin:0;padding:8px 20px;cursor:pointer;}
